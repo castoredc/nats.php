@@ -1,6 +1,6 @@
 {
-    "name": "basis-company/nats",
-    "description": "nats jetstream client for php",
+    "name": "castoredc/nats",
+    "description": "nats jetstream client for php - a fork of basis-company/nats",
     "keywords": ["nats", "client", "streaming", "jetstream", "queue", "messaging", "subscribe", "publish", "request", "response", "bucket", "key-value", "storage"],
     "require": {
         "php": ">=8.1"
